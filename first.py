@@ -1,3 +1,4 @@
 print('Hello World')
-a = 'Привет'
+a = 'Привет!'
 b = 'Что делаешь?'
+print(a, b)
